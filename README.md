@@ -1,2 +1,3 @@
 # Change-Screen-brightness-using-Webcam
-This program uses webcam to detect if a person is sitting in front of computer and change screen brightness based on it
+
+If a person is not sitting in front of camera, the screen will remain dim. If a face is detected, the screen brightness changes to 100% and the program exits.
